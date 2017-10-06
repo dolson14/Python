@@ -1,1 +1,5 @@
+# ignore notebook checkpoints
 **/.ipynb_checkpoints
+
+# specific ignores
+ITBS_2e/old_data_sample.txt
